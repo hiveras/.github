@@ -1,0 +1,6 @@
+# Applies to every public Hiveras repository without its own issue templates.
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/hiveras/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, never in a public issue.
